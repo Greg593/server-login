@@ -25,7 +25,7 @@ exports.login = function(req, res, next){
         user: userInfo
     });
  
-}
+}   
  
 exports.register = function(req, res, next){
  
